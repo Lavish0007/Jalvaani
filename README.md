@@ -1,4 +1,4 @@
-# JalVaani - जितनितनी ज़रूरत, उतना पानी (As much as needed, as much water)
+# JalVaani - जितनी ज़रूरत, उतना पानी (As much as needed, as much water)
 
 ![JalVaani Logo - Placeholder for an actual logo if available]
 
