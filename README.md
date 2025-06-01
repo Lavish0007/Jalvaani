@@ -1,6 +1,6 @@
 # JalVaani - जितनी ज़रूरत, उतना पानी (As much as needed, as much water)
 
-![JalVaani Logo - Placeholder for an actual logo if available]
+![Image](https://github.com/user-attachments/assets/7ee34e82-23f4-4af2-adf4-23b6b5efc0eb)
 
 JalVaani is an innovative AgriTech solution developed by Team कृषिVerse for the AGRITECH HACK 2025. Our mission is to empower farmers with data-driven insights for smarter, more sustainable irrigation, ultimately saving water, improving yield, and promoting better planning for every drop. [cite: 2, 3]
 
