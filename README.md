@@ -76,35 +76,6 @@ JalVaani is developed by Team कृषिVerse, comprising: [cite: 1]
 * Udisha Verma [cite: 1]
 * Vidushi Srivastava [cite: 1]
 
-## Getting Started (Local Development)
-
-To set up and run JalVaani locally, follow these steps:
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/Lavish0007/Jalvaani.git](https://github.com/Lavish0007/Jalvaani.git)
-    cd Jalvaani
-    ```
-2.  **Install Dependencies:** (Assumed based on a typical web project, specific commands would depend on the technology stack, e.g., Python/Django, Node.js/React, etc.)
-    ```bash
-    # Example for Python/Django:
-    # pip install -r requirements.txt
-    
-    # Example for Node.js:
-    # npm install
-    ```
-3.  **Configure Environment Variables:** (If applicable, for API keys, database connections, etc.)
-    * Create a `.env` file based on a `.env.example` (if provided in the repo).
-    * Add necessary API keys for weather services, etc.
-4.  **Run the Application:**
-    ```bash
-    # Example for Python/Django:
-    # python manage.py runserver
-    
-    # Example for Node.js:
-    # npm start
-    ```
-    The application should then be accessible via your web browser, typically at `http://localhost:8000` or `http://localhost:3000`. Refer to the specific project documentation for exact instructions.
 
 ## Contact
 
